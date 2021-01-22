@@ -6,6 +6,7 @@ int main() {
 	int menu;
 	menu = 0;
 	while(menu != 3){
+		cout<<"\n";
 		cout<<"1. Sumatoria \n";
 		cout<<"2.Formula \n";
 		cout<<"3.Salir \n";
